@@ -1,3 +1,10 @@
-# angular-ejxqvf
+# angular-tutorial
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ejxqvf)
+
+## instalation
+
+`npm install`
+
+## run
+
+`npm start`
